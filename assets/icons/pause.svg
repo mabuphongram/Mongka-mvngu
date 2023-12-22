@@ -1,0 +1,7 @@
+<!-- 
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="15,5 25,25 5,25" fill="#0a3068" stroke="#0a3068" stroke-width="0.5"/>
+</svg> -->
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="15,5 25,25 5,25" fill="#0a3068" stroke="#0a3068" stroke-width="0.5" transform="rotate(90, 15, 15)"/>
+</svg>
